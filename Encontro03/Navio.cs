@@ -8,6 +8,23 @@ namespace Encontro03
 {
     public class Navio : MedidasVeiculo
     {
+        public override string Proprietario
+        {
+            get => this.proprietario;
+            set => this.proprietario = value;
+        }
+
+        public override void Ligar()
+        {
+            Console.WriteLine("Ligando o navio.");
+        }
+
+        public override void Desligar()
+        {
+            Console.WriteLine("Desligando o navio.");
+        }
+
+
         public Navio() : base()
         { }
 

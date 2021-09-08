@@ -1,0 +1,7 @@
+C:\Users\luiza\Source\Repos\poom_2021_2_git\Encontro03\bin\Debug\Encontro03.exe.config
+C:\Users\luiza\Source\Repos\poom_2021_2_git\Encontro03\bin\Debug\Encontro03.exe
+C:\Users\luiza\Source\Repos\poom_2021_2_git\Encontro03\bin\Debug\Encontro03.pdb
+C:\Users\luiza\Source\Repos\poom_2021_2_git\Encontro03\obj\Debug\Encontro03.csproj.AssemblyReference.cache
+C:\Users\luiza\Source\Repos\poom_2021_2_git\Encontro03\obj\Debug\Encontro03.csproj.CoreCompileInputs.cache
+C:\Users\luiza\Source\Repos\poom_2021_2_git\Encontro03\obj\Debug\Encontro03.exe
+C:\Users\luiza\Source\Repos\poom_2021_2_git\Encontro03\obj\Debug\Encontro03.pdb
