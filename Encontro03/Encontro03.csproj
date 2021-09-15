@@ -47,7 +47,12 @@
     <Compile Include="Caminhao.cs" />
     <Compile Include="Carro.cs" />
     <Compile Include="ILocacao.cs" />
-    <Compile Include="LocacaoDeCarros.cs" />
+    <Compile Include="Locacao.cs" />
+    <Compile Include="LocacaoDeAviao.cs" />
+    <Compile Include="LocacaoDeCaminhao.cs" />
+    <Compile Include="LocacaoDeCarro.cs" />
+    <Compile Include="LocacaoDeMotocicleta.cs" />
+    <Compile Include="LocacaoDeNavio.cs" />
     <Compile Include="MedidasVeiculo.cs" />
     <Compile Include="Motocicleta.cs" />
     <Compile Include="Navio.cs" />
@@ -57,7 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="DiagramaDeClasses_Veiculos.cd" />
+    <None Include="DiagramaDeClasses_Veiculos_Versao2.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
