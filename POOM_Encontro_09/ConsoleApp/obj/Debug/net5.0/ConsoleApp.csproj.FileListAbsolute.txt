@@ -1,0 +1,16 @@
+/home/colossus/Documents/Repos/CSharp/POOM_Encontro_09/ConsoleApp/bin/Debug/net5.0/ConsoleApp
+/home/colossus/Documents/Repos/CSharp/POOM_Encontro_09/ConsoleApp/bin/Debug/net5.0/ConsoleApp.deps.json
+/home/colossus/Documents/Repos/CSharp/POOM_Encontro_09/ConsoleApp/bin/Debug/net5.0/ConsoleApp.runtimeconfig.json
+/home/colossus/Documents/Repos/CSharp/POOM_Encontro_09/ConsoleApp/bin/Debug/net5.0/ConsoleApp.runtimeconfig.dev.json
+/home/colossus/Documents/Repos/CSharp/POOM_Encontro_09/ConsoleApp/bin/Debug/net5.0/ConsoleApp.dll
+/home/colossus/Documents/Repos/CSharp/POOM_Encontro_09/ConsoleApp/bin/Debug/net5.0/ref/ConsoleApp.dll
+/home/colossus/Documents/Repos/CSharp/POOM_Encontro_09/ConsoleApp/bin/Debug/net5.0/ConsoleApp.pdb
+/home/colossus/Documents/Repos/CSharp/POOM_Encontro_09/ConsoleApp/obj/Debug/net5.0/ConsoleApp.csproj.AssemblyReference.cache
+/home/colossus/Documents/Repos/CSharp/POOM_Encontro_09/ConsoleApp/obj/Debug/net5.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/colossus/Documents/Repos/CSharp/POOM_Encontro_09/ConsoleApp/obj/Debug/net5.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/colossus/Documents/Repos/CSharp/POOM_Encontro_09/ConsoleApp/obj/Debug/net5.0/ConsoleApp.AssemblyInfo.cs
+/home/colossus/Documents/Repos/CSharp/POOM_Encontro_09/ConsoleApp/obj/Debug/net5.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/colossus/Documents/Repos/CSharp/POOM_Encontro_09/ConsoleApp/obj/Debug/net5.0/ConsoleApp.dll
+/home/colossus/Documents/Repos/CSharp/POOM_Encontro_09/ConsoleApp/obj/Debug/net5.0/ref/ConsoleApp.dll
+/home/colossus/Documents/Repos/CSharp/POOM_Encontro_09/ConsoleApp/obj/Debug/net5.0/ConsoleApp.pdb
+/home/colossus/Documents/Repos/CSharp/POOM_Encontro_09/ConsoleApp/obj/Debug/net5.0/ConsoleApp.genruntimeconfig.cache
